@@ -1,0 +1,26 @@
+.header{
+    text-align: center;
+}
+
+.sections{
+    display: flex;
+    flex-direction: column;
+    width: 171px;    
+}
+
+label{
+    text-align: center;
+}
+
+.languages-container{
+    margin-bottom: 31px;
+    text-align: center;
+}
+
+.result-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 11px;
+}
+
