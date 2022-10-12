@@ -18,8 +18,8 @@ const OPTIONS = {
 	}
 };
 
-let translateFromCode
-let translateToCode
+let translateFromCode = 'es'
+let translateToCode = 'en'
 
 fetch(GET_URL, OPTIONS)
 .then(res => res.json())
